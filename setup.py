@@ -14,7 +14,7 @@ requirements = [
     "datasets",
     "timeout_decorator",
     "safetensors<=0.3.1",
-    "torch>=1.0,<2.0.0",
+    "torch>=1.0,<3.0.0",
     "transformers>=4.20.0",
     "matplotlib>=3.2,<3.7"
 ]
